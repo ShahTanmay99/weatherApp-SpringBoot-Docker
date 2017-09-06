@@ -1,0 +1,11 @@
+spring\boot\Controller\WeatherController.class
+spring\boot\Entity\WindDetails.class
+spring\boot\Entity\WeatherDetails.class
+spring\boot\exception\NotFoundException.class
+spring\boot\exception\BadRequestException.class
+spring\boot\config\WebConfig.class
+spring\boot\Repository\WeatherRepository.class
+spring\boot\Service\WeatherServiceImpl.class
+spring\boot\Service\WeatherService.class
+spring\boot\config\SwaggerConfig.class
+spring\boot\Application.class
